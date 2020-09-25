@@ -62,6 +62,7 @@ def COPYsign(x,y):
     return math.copysign(x,y)
 
 def SI_units(val,unit_in,unit_out):
+    #This function is used in conversion, to reduce the number of if-elif-else statements.
     return val * SI[unit_in] / SI[unit_out]
 
 # take input from the user
