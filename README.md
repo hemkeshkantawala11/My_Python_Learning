@@ -35,8 +35,8 @@ https://github.com/hemkeshkantawala11/Python_Monopoly_Game
 
 @Python_Monopoly
 
-@devanujpatel
+@devanujpatel(https://github.com/devanujpatel)
 
-@hemkeshkantawala11
+@hemkeshkantawala11(https://github.com/hemkeshkantawala11)
 
 WAITING FOR YOUR CONTRIBUTION!!!!!
